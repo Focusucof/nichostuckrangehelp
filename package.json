@@ -1,0 +1,19 @@
+{
+  "name": "nichostuckrange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.4.1",
+    "axios": "^0.21.1",
+    "axios-cookiejar-support": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "tough-cookie": "^4.0.0"
+  }
+}
